@@ -33,3 +33,7 @@ Text Analytics · Data Integration · Data Visualization · Speech AI
 - Developed an interactive voice based assistant for amateur chefs using Automatic Speech Recognition (ASR) and Retrieval-Augmented Generation (RAG)
 - Converted spoken instructions into structured recipes
 - Making interaction barrier-free with speech-based navigation and language inclusivity 
+
+### [Speaker-Aware Voice Assistant](https://github.com/priyankaroy27/STARTHACK25_Helbling)
+- Developed a voice-based assistant that identifies speakers, transcribes conversations and personalizes interactions by remembering user preferences
+- Enhanced user experience by enabling seamless, memory-driven conversations for both new and returning customers
