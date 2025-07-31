@@ -1,16 +1,25 @@
-## Hi there 👋
+### Priyanka Roy this side 👋
 
-<!--
-**priyankaroy27/priyankaroy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Data Science (Universität Mannheim, Germany)
+📊 Passionate about Data Analysis, NLP, and Speech AI  
 
-Here are some ideas to get you started:
+### 🔧 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  
+Python · R · Java · C/C++ · SQL
+
+**Core Concepts:**  
+Data Analysis · Artificial Intelligence · Neural Networks  
+Natural Language Processing (NLP) · Automatic Speech Recognition (ASR)  
+Speaker Diarization · Retrieval-Augmented Generation (RAG)
+
+**Libraries & Frameworks:**  
+Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch  
+Streamlit · Whisper · SpeechBrain · Sentence-Transformers  
+NLTK · Hugging Face Transformers · DeepFilterNet · PyAudio
+
+**Tools & Platforms:**  
+Git · Jupyter Notebooks · Google Colab · Tableau · IBM Cognos · Power BI 
+
+**Specialized Areas:**  
+Text Analytics · Data Integration · Data Visualization · Speech AI
