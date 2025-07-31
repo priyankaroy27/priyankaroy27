@@ -1,6 +1,7 @@
 # **Priyanka Roy this side** 👋
 
 🎓 Master's in Data Science (Universität Mannheim, Germany) 
+
 📊 Passionate about Data Analysis, NLP, and Speech AI  
 
 # 🔧 **Toolbox**
@@ -22,7 +23,7 @@ Text Analytics · Data Integration · Data Visualization · Speech AI
 
 # 📁 **Projects**
 
-## [Evaluating and Optimizing Online Speaker Diarization in Dynamic Conversational Environments] (https://github.com/priyankaroy27/MMDS_MasterThesis)
+### [Evaluating and Optimizing Online Speaker Diarization in Dynamic Conversational Environments](https://github.com/priyankaroy27/MMDS_MasterThesis)
 - Designed real-time pipelines for dynamic, multi-speaker conversations
 - Integrated and benchmarked state-of-the-art models to balance latency and accuracy
 - Reduced Diarization Error Rate (DER) to 23%, representing a 4% absolute improvement over comparable ongoing research using the pyannote framework.
