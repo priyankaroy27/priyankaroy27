@@ -37,3 +37,6 @@ Text Analytics · Data Integration · Data Visualization · Speech AI
 ### [Speaker-Aware Voice Assistant](https://github.com/priyankaroy27/STARTHACK25_Helbling)
 - Developed a voice-based assistant that identifies speakers, transcribes conversations and personalizes interactions by remembering user preferences
 - Enhanced user experience by enabling seamless, memory-driven conversations for both new and returning customers
+
+###[MapX - Automated Schema Mapping](https://github.com/priyankaroy27/MapX-Automated_Schema_Mapping)
+- Developed a tool for schema mapping across databases using sentence-transformers (all-MiniLM-L6-v2) and Retrieval-Augmented Generation (RAG)
