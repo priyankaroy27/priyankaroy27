@@ -1,7 +1,9 @@
 # 👋 **Priyanka Roy this side** 
 
 🎓 Master's in Data Science (Universität Mannheim, Germany) 
+
 📍 Based in Germany | From India  
+
 
 📊 Passionate about Data Analysis, NLP, and Speech AI  
 
