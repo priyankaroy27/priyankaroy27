@@ -9,14 +9,10 @@
 Python · R · Java · C/C++ · SQL
 
 **Core Concepts:**  
-Data Analysis · Artificial Intelligence · Neural Networks  
-Natural Language Processing (NLP) · Automatic Speech Recognition (ASR)  
-Speaker Diarization · Retrieval-Augmented Generation (RAG)
+Data Analysis · Artificial Intelligence · Neural Networks · Natural Language Processing (NLP) · Automatic Speech Recognition (ASR) · Speaker Diarization · Retrieval-Augmented Generation (RAG)
 
 **Libraries & Frameworks:**  
-Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch  
-Streamlit · Whisper · SpeechBrain · Sentence-Transformers  
-NLTK · Hugging Face Transformers · DeepFilterNet · PyAudio
+Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Streamlit · Whisper · SpeechBrain · Sentence-Transformers · NLTK · Hugging Face Transformers · DeepFilterNet · PyAudio
 
 **Tools & Platforms:**  
 Git · Jupyter Notebooks · Google Colab · Tableau · IBM Cognos · Power BI 
