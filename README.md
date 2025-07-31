@@ -1,6 +1,7 @@
 ### Priyanka Roy this side 👋
 
 🎓 Master's in Data Science (Universität Mannheim, Germany)
+
 📊 Passionate about Data Analysis, NLP, and Speech AI  
 
 ### 🔧 Toolbox
