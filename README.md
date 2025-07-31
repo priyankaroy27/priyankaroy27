@@ -26,5 +26,10 @@ Text Analytics · Data Integration · Data Visualization · Speech AI
 ### [Evaluating and Optimizing Online Speaker Diarization in Dynamic Conversational Environments](https://github.com/priyankaroy27/MMDS_MasterThesis)
 - Designed real-time pipelines for dynamic, multi-speaker conversations
 - Integrated and benchmarked state-of-the-art models to balance latency and accuracy
-- Reduced Diarization Error Rate (DER) to 23%, representing a 4% absolute improvement over comparable ongoing research using the pyannote framework.
+- Reduced Diarization Error Rate (DER) to 23%, representing a 4% absolute improvement over comparable ongoing research using the pyannote framework
 - Fine-tuned segmentation and clustering thresholds to reduce error rate while maintaining low-latency inference
+
+### [Foodle - Real Time Cooking Assistant](https://github.com/priyankaroy27/Foodle)
+- Developed an interactive voice based assistant for amateur chefs using Automatic Speech Recognition (ASR) and Retrieval-Augmented Generation (RAG)
+- Converted spoken instructions into structured recipes
+- Making interaction barrier-free with speech-based navigation and language inclusivity 
