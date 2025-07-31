@@ -4,8 +4,7 @@
 
 📊 Passionate about Data Analysis, NLP, and Speech AI  
 
-## 🔧 Toolbox
-------------------------------------------------------------------------------------------------
+# 🔧 Toolbox
 
 **Languages:**  
 Python · R · Java · C/C++ · SQL
