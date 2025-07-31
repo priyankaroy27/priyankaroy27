@@ -41,7 +41,7 @@ Text Analytics · Data Integration · Data Visualization · Speech AI
 ### [MapX - Automated Schema Mapping](https://github.com/priyankaroy27/MapX-Automated_Schema_Mapping)
 - Developed a tool for schema mapping across databases using sentence-transformers (all-MiniLM-L6-v2) and Retrieval-Augmented Generation (RAG)
 
-### [SBA Loan Approval - Risk Classification using ML][https://github.com/priyankaroy27/SBA-Loan-Approval)
+### [SBA Loan Approval - Risk Classification using ML](https://github.com/priyankaroy27/SBA-Loan-Approval)
 - Built a binary classification model to predict loan repayment outcomes. Designed to support banks in optimizing risk-aware loan decisions for SMEs
 - Conducted extensive Exploratory Data Analysis (EDA) to understand class imbalance, outliers, key risk indicators and correlations with default rates
 - Engineered meaningful features and cleaned inconsistent data entries for modeling readiness
