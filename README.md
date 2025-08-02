@@ -5,7 +5,7 @@
 📍 Based in Germany | From India  
 
 
-📊 Passionate about Data Analysis, NLP, and Speech AI  
+
 
 # 🔧 **Toolbox**
 
